@@ -3,6 +3,6 @@
 <head>
 </head>
 <body>
-<font size="5">Hello</font>
+<font color="red">Hello</font>
 </body>
 </html>
